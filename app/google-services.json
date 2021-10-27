@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "31496866327",
+    "project_id": "demofirebaseapp-5e49d",
+    "storage_bucket": "demofirebaseapp-5e49d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31496866327:android:32e1ae732261fae9316a52",
+        "android_client_info": {
+          "package_name": "com.kapil.demofirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31496866327-v1i5pireiim5fe3qleeg4l60ql81ppl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmF0K6sNrTwl4FqSF6Yqwz_bJY0_GgkXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31496866327-v1i5pireiim5fe3qleeg4l60ql81ppl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31496866327:android:142b3983d1dd198d316a52",
+        "android_client_info": {
+          "package_name": "com.kapil.twitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31496866327-v1i5pireiim5fe3qleeg4l60ql81ppl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmF0K6sNrTwl4FqSF6Yqwz_bJY0_GgkXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31496866327-v1i5pireiim5fe3qleeg4l60ql81ppl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
